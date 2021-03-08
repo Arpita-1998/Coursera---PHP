@@ -5,7 +5,7 @@ This repository contains my solutions to the assignments of the Coursera course 
 Write this program in a notepad and save it as file.php or any other name.
 
 1. <?php echo " hello ashok" ?>
-After completion of the installation, you can use the XAMPP Control Panel to start/ stop all servers.
+   After completion of the installation, you can use the XAMPP Control Panel to start/ stop all servers.
 
 2. Start Mysql and Apache servers.
 
